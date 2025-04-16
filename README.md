@@ -1,5 +1,7 @@
 # 🎆 3D Sky Adventure
 
+![Sky Adventure](https://github.com/user-attachments/assets/bcfbcdbe-7787-4424-bab8-76e114d2a2e3)
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![R3F](https://img.shields.io/badge/React_Three_Fiber-gray?style=for-the-badge&logo=three.js&logoColor=white)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
