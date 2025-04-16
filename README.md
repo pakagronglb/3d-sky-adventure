@@ -18,9 +18,6 @@ A futuristic 3D website showcasing fireworks in space using React Three Fiber an
 - Post-processing effects with bloom for enhanced visuals
 - Responsive design with a modern UI
 
-## 📸 Preview
-
-![Sky Adventure Preview](preview.png)
 
 ## 🔧 Technologies Used
 
